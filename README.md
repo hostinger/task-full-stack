@@ -1,7 +1,12 @@
 # Fullstack Developer Task
 
 Create user management CRUD application.
+Separate frontend and backend into two different services.
+Backend should be a RESTful API.
+Create full `Users` resource.
+
 Add availability to import random user from https://jsonplaceholder.typicode.com/ API
+
 
 ## Few simple steps
 
